@@ -1,1 +1,3 @@
-# HuaDuXiaoQuDingZhiBiZhiQieHuan
+# 花都校区定制壁纸切换程序
+
+本程序适用于广东广雅中学（花都校区）的畅言智慧课堂系统（即超脑）
