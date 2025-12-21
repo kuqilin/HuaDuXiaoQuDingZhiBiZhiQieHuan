@@ -1,0 +1,34 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(2, 0, 0, 0),
+    prodvers=(2, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'040904B0',  # 语言编码（中文简体）
+          [
+            StringStruct(u'CompanyName', u'个人开发'),
+            StringStruct(u'FileDescription', u'花都校区定制壁纸切换设置'),
+            StringStruct(u'FileVersion', u'2.0 Alpha'),
+            StringStruct(u'InternalName', u'花都校区定制壁纸切换设置'),
+            StringStruct(u'LegalCopyright', u'Copyleft'),
+            StringStruct(u'OriginalFilename', u'settings.exe'),
+            StringStruct(u'ProductName', u'花都校区定制壁纸切换设置'),
+            StringStruct(u'ProductVersion', u'2.0 Alpha'),
+            StringStruct(u'Author', u'陈麒州'),
+            StringStruct(u'Contact', u'kuqilin@88.com')
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [0x409, 1200])])
+  ]
+)
