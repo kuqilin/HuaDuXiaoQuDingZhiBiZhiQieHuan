@@ -84,9 +84,18 @@ python auto_install.py --uninstall   # 卸载
 
 ## 打包 exe
 
+主程序：
 ```bat
 pyinstaller -F -w -i .\GY_1080x1080.ico --version-file .\change_wallpaper_version_info.txt .\change_wallpaper.py --clean
+```
+
+设置：
+```bat
 pyinstaller -F -w -i .\GY_1080x1080.ico --version-file .\settings_version_info.txt .\settings.py --clean
+```
+
+自动安装：
+```bat
 pyinstaller -F -w -i .\GY_1080x1080.ico --version-file .\auto_install_version_info.txt --hidden-import win32com.client .\auto_install.py --clean
 ```
 
