@@ -1,0 +1,11 @@
+# 花都校区定制壁纸切换 - 运行时依赖
+#
+#   pip install -r requirements.txt
+#
+# Python >= 3.12（pywin32 从 306 版起才提供 Python 3.13 的 wheel）
+
+PyQt5>=5.15.11
+pywin32>=306
+
+# 打包成 exe 时还需要（取消注释后安装，或直接 pip install pyinstaller>=6.0）
+# pyinstaller>=6.0
