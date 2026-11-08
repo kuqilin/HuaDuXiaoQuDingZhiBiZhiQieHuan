@@ -20,7 +20,7 @@ VSVersionInfo(
             StringStruct(u'FileVersion', u'2.0 Alpha'),
             StringStruct(u'InternalName', u'花都校区定制壁纸切换'),
             StringStruct(u'LegalCopyright', u'Copyleft'),
-            StringStruct(u'OriginalFilename', u'chenge_wallpaper.exe'),
+            StringStruct(u'OriginalFilename', u'change_wallpaper.exe'),
             StringStruct(u'ProductName', u'花都校区定制壁纸切换'),
             StringStruct(u'ProductVersion', u'2.0 Alpha'),
             StringStruct(u'Author', u'陈麒州'),
