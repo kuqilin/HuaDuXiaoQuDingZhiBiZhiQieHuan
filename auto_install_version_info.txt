@@ -17,12 +17,12 @@ VSVersionInfo(
           [
             StringStruct(u'CompanyName', u'个人开发'),
             StringStruct(u'FileDescription', u'自动安装'),
-            StringStruct(u'FileVersion', u'2.0 Alpha'),
+            StringStruct(u'FileVersion', u'3.0 Alpha'),
             StringStruct(u'InternalName', u'自动安装'),
             StringStruct(u'LegalCopyright', u'Copyleft'),
             StringStruct(u'OriginalFilename', u'auto_install.exe'),
             StringStruct(u'ProductName', u'自动安装'),
-            StringStruct(u'ProductVersion', u'2.0 Alpha'),
+            StringStruct(u'ProductVersion', u'3.0 Alpha'),
             StringStruct(u'Author', u'陈麒州'),
             StringStruct(u'Contact', u'kuqilin@88.com')
           ]

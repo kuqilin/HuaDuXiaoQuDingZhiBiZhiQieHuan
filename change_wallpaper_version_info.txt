@@ -17,12 +17,12 @@ VSVersionInfo(
           [
             StringStruct(u'CompanyName', u'个人开发'),
             StringStruct(u'FileDescription', u'花都校区定制壁纸切换'),
-            StringStruct(u'FileVersion', u'2.0 Alpha'),
+            StringStruct(u'FileVersion', u'3.0 Alpha'),
             StringStruct(u'InternalName', u'花都校区定制壁纸切换'),
             StringStruct(u'LegalCopyright', u'Copyleft'),
             StringStruct(u'OriginalFilename', u'change_wallpaper.exe'),
             StringStruct(u'ProductName', u'花都校区定制壁纸切换'),
-            StringStruct(u'ProductVersion', u'2.0 Alpha'),
+            StringStruct(u'ProductVersion', u'3.0 Alpha'),
             StringStruct(u'Author', u'陈麒州'),
             StringStruct(u'Contact', u'kuqilin@88.com')
           ]
